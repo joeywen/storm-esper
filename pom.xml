@@ -9,7 +9,7 @@
   <groupId>org.tomdz.storm</groupId>
   <artifactId>storm-esper</artifactId>
   <name>storm-esper</name>
-  <version>0.8.1-SNAPSHOT</version>
+  <version>0.9.4-SNAPSHOT</version>
   <packaging>jar</packaging>
   <description>Storm + Esper integration</description>
   <licenses>
@@ -70,14 +70,14 @@
 
   <dependencies>
     <dependency>
-      <groupId>storm</groupId>
-      <artifactId>storm</artifactId>
-      <version>0.8.1</version>
+      <groupId>org.apache.storm</groupId>
+      <artifactId>storm-core</artifactId>
+      <version>0.9.4</version>
     </dependency>
     <dependency>
       <groupId>com.espertech</groupId>
       <artifactId>esper</artifactId>
-      <version>4.3.0</version>
+      <version>5.2.0</version>
     </dependency>
 
     <dependency>
