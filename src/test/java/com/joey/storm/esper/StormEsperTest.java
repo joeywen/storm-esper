@@ -1,4 +1,4 @@
-package org.tomdz.storm.esper;
+package com.joey.storm.esper;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;

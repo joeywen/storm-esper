@@ -1,4 +1,4 @@
-package org.tomdz.storm.esper;
+package com.joey.storm.esper;
 
 public class Connection
 {
